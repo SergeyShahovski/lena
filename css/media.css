@@ -1,0 +1,267 @@
+/******************desktop-min1200********************/
+@media(max-width:1200px) {
+
+}
+/******************notebook-min992********************/
+@media(max-width:992px) {
+
+}
+/******************tablet-min768********************/
+@media(max-width:768px) {
+    .main__text {
+        padding: 135px 0 100px 0;
+        margin: 0;
+        background-image: none;
+    }
+    .main__text .title h1 {
+        font-size: 32px;
+    }
+    .main__text .text p {
+        font-size: 14px;
+    }
+    .btn__mainBtn {
+        margin-top: 45px;
+    }
+    
+    
+    .about {
+        min-height: 1202px;
+    }
+    .about__content {
+        margin: 0;
+        padding: 59px 10px;
+        width: 97%;
+    }
+    .image__text {
+        flex-direction: column;
+    }
+    .image__text .image img {
+        width: 100%;
+    }
+    .image__text .text {
+        margin: 13px 0 0 0;
+    }
+    .image__text .text p {
+        font-size: 16px;
+    }
+    
+    
+    
+    .card-container {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .card-container1 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .card1,
+    .card2 {
+        font-size: 18px;
+        width: 100%;
+    }
+    .card__one {
+        margin-top: 10px;
+    }
+
+    
+    
+    
+    .form__wrapper {
+        flex-direction: column;
+        padding: 29px 39px;
+    }
+    .form__aside {
+        min-width: 0;
+        margin: 0;
+        width: 100%;
+    }
+    .form__aside .title {
+        font-size: 22px;
+    }
+    
+    
+    
+    .footer__wrap {
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+}
+/******************phablet-min576********************/
+@media(max-width:480px) {
+    .main__text {
+        padding: 135px 0 80px 0;
+        margin: 0;
+        background-image: none;
+    }
+    .main__text .title h1 {
+        font-size: 18px;
+    }
+    .main__text .text p {
+        font-size: 14px;
+    }
+    
+    
+    .about {
+        min-height: 920px;
+    }
+    .about__content {
+        margin: 0;
+        padding: 59px 10px;
+        width: 94%;
+    }
+    .image__text {
+        flex-direction: column;
+    }
+    .image__text .image img {
+        width: 100%;
+    }
+    .image__text .text {
+        margin: 13px 0 0 0;
+    }
+    .image__text .text p {
+        font-size: 16px;
+    }
+    
+    
+    
+    .card-container {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .card-container1 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .card1,
+    .card2 {
+        font-size: 12px;
+        width: 100%;
+    }
+    .card__one {
+        margin-top: 10px;
+    }
+
+    
+    
+    
+    .form__wrapper {
+        flex-direction: column;
+        padding: 29px 10px;
+    }
+    .form__aside {
+        min-width: 0;
+        margin: 0;
+        width: 100%;
+    }
+    .form__aside .title {
+        font-size: 22px;
+    }
+    
+    
+    
+    .footer__wrap {
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+}
+/******************mobile-max576********************/
+@media(max-width:320px) {
+    .main__text {
+        padding: 135px 0 80px 0;
+        margin: 0;
+        background-image: none;
+    }
+    .main__text .title h1 {
+        font-size: 21px;
+    }
+    
+    
+    
+    .about {
+        min-height: 880px;
+    }
+    .about__content {
+        margin: 0;
+        padding: 59px 10px;
+        width: 94%;
+    }
+    .image__text {
+        flex-direction: column;
+    }
+    .image__text .image img {
+        width: 100%;
+    }
+    .image__text .text {
+        margin: 13px 0 0 0;
+    }
+    .image__text .text p {
+        font-size: 16px;
+    }
+    
+    
+    
+    .card-container {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .card-container1 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .card1,
+    .card2 {
+        font-size: 12px;
+        width: 100%;
+    }
+    .card__one {
+        margin-top: 10px;
+    }
+
+    
+    
+    
+    .form__wrapper {
+        flex-direction: column;
+        padding: 29px 10px;
+    }
+    .form__aside {
+        min-width: 0;
+        margin: 0;
+        width: 100%;
+    }
+    .form__aside .title {
+        font-size: 22px;
+    }
+    
+    
+    
+    .footer__wrap {
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
